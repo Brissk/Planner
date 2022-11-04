@@ -1,0 +1,7 @@
+id authorName textOfTask addDate deadLineDate priority ;
+1	Mikle	Посмотреть фильм	04.11.22	05.11.22	LOW
+2	Kate	Посмотреть лекцию	23.10.22	05.11.22	HIGH
+3	Ann	Отдохнуть наконец-т	01.01.22	05.11.22	LOW
+4	Fill	Сходить в магазин	14.05.22	05.11.22	MEDIUM
+5	Nik	Поговорить с женой	24.08.22	05.11.22	MEDIUM
+6	Angel	Сделать домашку	09.02.22	05.11.22	HIGH
